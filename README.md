@@ -27,18 +27,3 @@ Wearable Alert is a watch-sized wearable safety device consolidating features fr
 - `previous-design/` — Spring 2026 reference material
 - `tests/` — software/system tests
 
-## Workflow
-1. Create an issue.
-2. Create a feature branch.
-3. Implement and test.
-4. Open a pull request.
-5. Review with the team.
-6. Merge into `main`.
-
-Example:
-`git checkout -b feature/fall-detection`
-
-## Security
-Never commit Wi-Fi passwords, API keys, AWS credentials, private certificates, or other secrets.
-
-A mobile app is not automatically required by the Fall 2026 requirements.
